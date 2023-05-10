@@ -1,3 +1,6 @@
+// source: https://www.youtube.com/watch?v=bfkalDSvRDc&t=1229s
+// "Build Your First Sybil-Resistant Web App with Gitcoin Passport & Next.js: A Step-by-Step Guide" from Nader Dabit (https://www.youtube.com/@naderdabit)
+
 'use client'
 import { useState, useEffect } from 'react'
 import { ethers } from 'ethers'
